@@ -7,3 +7,6 @@ fastapi
 uvicorn
 watchdog
 langgraph-cli[inmem]
+python-dotenv
+streamlit>=1.32.0
+requests
